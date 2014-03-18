@@ -78,7 +78,9 @@
 	
     <div class="logoeco"><a href="http://oeco.org.br" target="_blank"><img src="img/eco_logoG.png" style="margin:20px auto;"></a></div>
 
-    <div class="bluemoon"><a href="http://www.bluemoonfund.org" target="_blank"><img src="img/bluemoon.jpg" style="margin:20px auto;"></a></div>
+    <div class="bluemoon"><a href="http://www.bluemoonfund.org" target="_blank"><img src="img/bluemoon.png" style="margin:20px auto;"></a></div>
+
+    <div class="boticario"><a href="http://www.grupoboticario.com.br" target="_blank"><img src="img/boticario.png" style="margin:20px auto;"></a></div>
 
     <div class="ecolab"><a href="http://ecolab.oeco.org.br" target="_blank"><img src="img/ecolablogo.png" style="margin:20px auto;"></a></div>
 

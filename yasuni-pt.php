@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 
-<title>El Yasuní</title>
+<title>Yasuní</title>
 
 <meta name="keywords" content="O Eco, Yasuni, jornalismo ambiental, amazônia, Equador, Brasil, petróleo, Yasuni ITT, Biodiversidade, áreas protegidas, parque nacional">
 <meta name="description" content="((o))eco - www.oeco.org.br, site especializado em jornalismo ambiental lança o especial Yasuní, a região amazônica, no Equador, que encosta nos andes e é uma das áreas mais biodiversas do mundo.">
@@ -61,7 +61,7 @@
 	 
 	<?php
 	$site_url = "yasuni.oeco.org.br/";
-	$twitter_url = "http://twitter.com/share?url=" . $site_url . "&text=I found this great site at " . $site_url;
+	$twitter_url = "http://twitter.com/share?url=" . $site_url . "&text=Leia o Especial Yasuní em " . $site_url;
 	$facebook_url = "http://www.facebook.com/sharer.php?u=" . $site_url;
 	?>
 	<p class="legend" style="color:#FFF;margin-right: 10px;text-shadow: 0px 0px 4px rgba(0,0,0,0.4);">Compartilhe:</p>

@@ -61,7 +61,7 @@
 	 
 	<?php
 	$site_url = "yasuni.oeco.org.br";
-	$twitter_url = "http://twitter.com/share?url=" . $site_url . "&text=I found this great site at " . $site_url;
+	$twitter_url = "http://twitter.com/share?url=" . $site_url . "&text=Read the Yasuní Special at " . $site_url;
 	$facebook_url = "http://www.facebook.com/sharer.php?u=" . $site_url;
 	?>
 	<p class="legend" style="color:#FFF;margin-right: 10px;text-shadow: 0px 0px 4px rgba(0,0,0,0.4);">Share this:</p>

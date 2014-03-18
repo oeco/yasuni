@@ -587,25 +587,24 @@ h3.subtitle {
 }
 
 .bluemoon {
-	width: 160px;
+	width: 150px;
+	height: 250px;
 	margin: 0;
 	float: left;
 }
 
-.ecolab {
+.boticario {
 	float: left;
 	width: 300px;
-	height: 170px;
+	height: 250px;
+}
+
+.ecolab {
+	float: left;
+	width: 520px;
+	height: 140px;
 	margin: 20px 0;
 }
-
-/*.fancybox-prev {
-	left: -100px;
-}
-
-.fancybox-next {
-	right: -100px;
-}*/
 
 .fancybox-skin {
 	background: #000000;

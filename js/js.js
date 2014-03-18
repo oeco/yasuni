@@ -80,11 +80,11 @@ jQuery(document).ready(function ($) {
         offset: '-100%'
     });
 
-    function preloader(){
+    /*function preloader(){
             document.getElementById("preloader").style.display = "none";
             document.getElementById("container").style.display = "block";
         }//preloader
-        window.onload = preloader;
+        window.onload = preloader;*/
 
 
 });
